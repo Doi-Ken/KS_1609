@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # PATIandKEN
 ## 製品概要
+Family Tech
 『実家に帰れるウェブアプリ』を目指したビデオチャットアプリ．
 [PATIandKEN](http://ec2-52-197-103-95.ap-northeast-1.compute.amazonaws.com/)
 ### 背景(製品開発のきっかけ、課題等）
